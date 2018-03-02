@@ -1,0 +1,150 @@
+article{
+    margin-left : 100px;
+    margin-top : 60px;
+    font-size : 15px;
+    font-family: Arial, sans-serif;
+    max-width : 600px
+}
+.section-general{
+    width: 570px;
+    margin-top: 50px;
+}
+#section-header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #999999;
+    border-top: 1px solid #999999;
+    margin-bottom: 70px;
+}
+#header{
+    font-family:'Times New Roman';
+    font-size: 25px;
+    color: #594b3a;
+    margin-left : 35%;  
+}
+
+#list-header{
+    margin-left: 30%;
+    line-height: 0px;
+    color:#424242;
+}
+#section-menu p{
+      color:#43948e;
+      line-height: 20px;
+      text-align: 7px; 
+      font-family: serif;
+}
+#section-menu span{
+    margin-left : 15px;
+    font-size : 15px;
+}
+#section-menu a{
+    color:#43948e;
+}
+#section-menu{
+    margin-top:0px;
+}
+.BackTOMENU{
+    margin-left: 6px;
+}
+.BackTOMENU a{
+    font-size: 7px;
+    color:#43948e; 
+    text-decoration:none; 
+}
+
+.paragraph{
+    margin-left: 35%;
+    line-height: 5px;
+}
+#profile{
+    margin-bottom :50px;
+}
+
+#job-title{
+    margin-left: 90px;
+    line-height: 3px;
+    font-size: 13px;
+}
+#education-paragraph{
+    margin-left: 25px;
+    line-height: 3px;
+    font-size: 13px;
+}
+#inspirational_quote{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#inspiration{
+      background-color:rgb(237, 243, 239);
+      font-size: 20px;
+      padding-left:20px;
+      padding-right: 20px;
+      padding-bottom:20px;
+      padding-top:20px;
+      font-family: 'Times New Roman', serif;
+      font-size : 25px;
+      font-style: italic;
+}
+#landscape-text{
+    display: inline;
+    line-height: 25px;
+}
+#landscap div{
+   display: inline-block;
+   overflow:hidden;
+   position: relative;
+}
+#landscape-img{
+    display: inline-block;
+    float: left;
+    padding-right : 15px;
+}
+#ArtThatILike{
+    height : 270px;
+}
+
+#albert-Einstein{
+    text-align: right;
+    font-size : 20px;
+}
+#table{
+    border-collapse:collapse;
+    width: 100%;
+}
+.table-body{
+    text-align : right;
+    vertical-align: center;
+    height : 30px;
+    font-size: 12px;
+}
+.city{
+    text-align : left;
+    width :25%;
+}
+#table-body-row1{
+    background-color: #312b2b;
+    color:#ffffff;
+}
+#table-body-row2{
+    border-bottom: 1px dotted #949191;
+}
+#table-body-row3{
+    border-bottom: 1px dotted #777777;
+    background-color:#e2dddd
+}
+.td-border{
+    border-left: 1px solid #d1d0d0;
+}
+
+#section-footer{
+    margin-top: 70px;
+    padding-bottom: 10px;
+    border-top: 1px solid #75907575;
+    margin-top: 70px;
+}
+#footer {
+    font-size:10px;
+    margin-left: 35%;
+}
+
