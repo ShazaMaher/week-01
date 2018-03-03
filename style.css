@@ -1,9 +1,11 @@
 article{
-    margin-left : 100px;
+    margin-left : 30%;
     margin-top : 60px;
     font-size : 15px;
     font-family: Arial, sans-serif;
-    max-width : 600px
+    max-width : 60%;
+      color: #594b3a;
+      
 }
 .section-general{
     width: 570px;
@@ -15,16 +17,15 @@ article{
     border-bottom: 2px solid #999999;
     border-top: 1px solid #999999;
     margin-bottom: 70px;
-}
-#header{
-    font-family:'Times New Roman';
+     font-family:'Times New Roman';
     font-size: 25px;
     color: #594b3a;
-    margin-left : 35%;  
+    text-align : center;
 }
 
+
 #list-header{
-    margin-left: 30%;
+    margin-left: 20%;
     line-height: 0px;
     color:#424242;
 }
